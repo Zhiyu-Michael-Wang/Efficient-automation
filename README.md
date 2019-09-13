@@ -1,5 +1,5 @@
 # Efficient-automation
-Let us students develop our own way to be high-efficient
+
 
 
 download the file ends with .apk so that you can install it on your phone
